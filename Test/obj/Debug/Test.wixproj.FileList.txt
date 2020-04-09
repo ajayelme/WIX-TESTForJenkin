@@ -1,0 +1,5 @@
+C:\Projects\INIFileUpgrade\INIFileDemo\Test\bin\Debug\Test.msi
+C:\Projects\INIFileUpgrade\INIFileDemo\Test\bin\Debug\Test.wixpdb
+C:\Projects\SharedData\INIFileUpgrade\INIFileDemo\Test\bin\Debug\cab1.cab
+C:\Projects\SharedData\INIFileUpgrade\INIFileDemo\Test\bin\Debug\Test.msi
+C:\Projects\SharedData\INIFileUpgrade\INIFileDemo\Test\bin\Debug\Test.wixpdb
